@@ -4,7 +4,7 @@ Here is the article with detailed steps about how to use this repo, to get the s
 https://medium.com/hackernoon/scrapping-your-hackerrank-com-submissions-with-python-d409bdf516bb
 
 This repo contains:
-1. Code to scrap hackerrank to get your submitted solutions
+1. Code to scrape hackerrank to get your submitted solutions
 2. run >npm install
 3. run >python Scraper.py
 4. Done
