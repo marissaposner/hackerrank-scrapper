@@ -19,6 +19,7 @@ for i in TRACKS:
         # t1.start()
         hr_scrap.get_track(i)
     except Exception as e:
+        #raise e
         print('Something went wrong::', str(e))
         logging.warning(e)
         pass
