@@ -13,7 +13,8 @@ def get_file_extension(track,lang):
         'cpp':'.cpp',
         'sql': '.sql',
         'mysql': '.sql',
-        'oracle': '.sql'
+        'oracle': '.sql',
+        'tsql':'.sql'
     }
     return ext[lang] or ext[track]
 
