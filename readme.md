@@ -1,8 +1,5 @@
 ## HACKERRANK SOLUTIONS
 
-Here is the article with detailed steps about how to use this repo, to get the solutions of problems you have solved on hackerrank. 
-https://medium.com/hackernoon/scrapping-your-hackerrank-com-submissions-with-python-d409bdf516bb
-
 This repo contains:
 1. Code to scrape hackerrank to get your submitted solutions
 2. run >npm install
